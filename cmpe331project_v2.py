@@ -6,6 +6,10 @@
     Stage: Development-02
      @author: Mohammed Ghassan Nassseir, 119200029
      @author: Elif Tuğ, 119202032 
+
+    Stage: Code Review
+    @author: Gökalp Çevik, 120202074
+    @author: Mohammad Hamed 120200155
 """
 
 import tkinter as tk
